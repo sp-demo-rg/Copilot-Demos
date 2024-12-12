@@ -166,3 +166,27 @@ Your final result when you run the code again might look like this.
 ![Final result](./images/26_FinalResult.jpg)
 
 That is it! Congratulation on finishing your first exercise with Copilot. You can try to write more complicated code and see how Copilot can help you.
+
+## Additonal Examples to try:
+Implement a function to check whether a given string is a palindrome.
+
+Delete the function and try again - Implement a function to check whether a given string is a palindrome (ignoring spaces, punctuation, and capitalization).
+
+Implement a function to calculate the factorial of a given number.
+
+Implement a function to reverse the elements of an integer array in place.
+
+Implement a function to return all prime numbers up to a given number n.
+
+Implement a function to count the number of vowels in a given string.
+
+Implement a function to return the first n numbers in the Fibonacci sequence.
+
+Implement a function to check if a given array of integers is sorted in ascending order.
+
+Implement a function to find the second largest number in a given array of integers.
+
+Implement a function to remove duplicates from a given array and return the unique elements.
+
+Implement a function to find the missing number in an array of integers from 1 to n (assuming only one number is missing).
+
