@@ -168,25 +168,37 @@ Your final result when you run the code again might look like this.
 That is it! Congratulation on finishing your first exercise with Copilot. You can try to write more complicated code and see how Copilot can help you.
 
 ## Additonal Examples to try:
-Implement a function to check whether a given string is a palindrome.
+1. Implement a function to check whether a given string is a palindrome.
 
-Delete the function and try again - Implement a function to check whether a given string is a palindrome (ignoring spaces, punctuation, and capitalization).
+2. Delete the function and try again - Implement a function to check whether a given string is a palindrome (ignoring spaces, punctuation, and capitalization).
 
-Implement a function to calculate the factorial of a given number.
+3. Implement a function to calculate the factorial of a given number.
 
-Implement a function to reverse the elements of an integer array in place.
+4. Implement a function to reverse the elements of an integer array in place.
 
-Implement a function to return all prime numbers up to a given number n.
+5. Implement a function to return all prime numbers up to a given number n.
 
-Implement a function to count the number of vowels in a given string.
+6. Implement a function to count the number of vowels in a given string.
 
-Implement a function to return the first n numbers in the Fibonacci sequence.
+7. Implement a function to return the first n numbers in the Fibonacci sequence.
 
-Implement a function to check if a given array of integers is sorted in ascending order.
+8. Implement a function to check if a given array of integers is sorted in ascending order.
 
-Implement a function to find the second largest number in a given array of integers.
+9. Implement a function to find the second largest number in a given array of integers.
 
-Implement a function to remove duplicates from a given array and return the unique elements.
+10. Implement a function to remove duplicates from a given array and return the unique elements.
 
-Implement a function to find the missing number in an array of integers from 1 to n (assuming only one number is missing).
+11. Implement a function to find the missing number in an array of integers from 1 to n (assuming only one number is missing).
+
+## Advanced Examples to try:
+
+1. Implement a function to solve a given 9x9 Sudoku puzzle using backtracking
+
+2. Implement a function to parse a mathematical expression string (e.g., "3 + 5 * (2 - 8)") and return the computed result.
+
+3. Implement a function to generate a random maze using the "recursive backtracking" algorithm and return it as a 2D grid of walls and paths.
+
+4. Implement a function to determines if a robot can move from the top-left corner to the bottom-right corner of a grid, given that some cells are blocked. Return all possible paths.
+
+
 
